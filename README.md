@@ -2,6 +2,10 @@
 #       By Kamaladdin Ahmadzada
 #Main purpose of this script is hiding (embedding) text data in image
 #Technique is so strong against visual attacks it is really hard to differenciate original and text embedded image even distinguishing these image by size impossible 
+
+- ![#f03c15](Important issue : if you want to save your image you have to do as *.png extension otherwise i mean lossy compression methods corrupt data that embedded image) `#f03c15`
+
+
 #Here is Results
 #
 #Differences:
@@ -16,4 +20,4 @@
 #
 ![dec](https://user-images.githubusercontent.com/39130214/54073210-bae1fe80-4284-11e9-97a4-3a2591541552.png)
 
-- ![#f03c15](Important issue : if you want to save your image you have to do as *.png extension otherwise i mean lossy compression methods corrupt data that embedded image) !
+
