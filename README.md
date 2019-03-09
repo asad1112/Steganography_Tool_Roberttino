@@ -2,9 +2,9 @@
 #       By Kamaladdin Ahmadzada
 #Main purpose of this script is hiding (embedding) text data in image
 #Technique is so strong against visual attacks it is really hard to differenciate original and text embedded image even distinguishing these image by size impossible 
-
----! (Important issue : if you want to save your image you have to do as *.png extension otherwise i mean lossy compression methods corrupt data that embedded image) 
-
+-
+- (Important issue : if you want to save your image you have to do as *.png extension otherwise i mean lossy compression methods corrupt data that embedded image) 
+-
 
 #Here is Results
 #
